@@ -3,3 +3,10 @@ Mr. Jones' Favorite movies.
   Jaws - 1975
   Aliens - 1986
   Preadator - 1987
+
+Victor Flores Favorite Movies:
+  Hidden Figures - 2016 
+  Amadeus - 1984
+  The Godfather - 1972 
+  The Pianist - 2002
+  Christmas Vacation - 1989
